@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "mattermost-k8s-operator",
+  "versions": [
+    {
+      "commit": "8711e2a7346f6cbe5be1791d87ab563aa001cc63",
+      "tag": "rev61",
+      "parsed_at": "2026-11-08T04:46:32.436057+00:00"
+    }
+  ]
+}
